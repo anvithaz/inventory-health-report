@@ -1,0 +1,16 @@
+SKU,Product_Name,Category,Unit_Cost,Current_Stock,Reorder_Point,Max_Stock
+SKU001,LED Strip 5M,LED,450,120,50,200
+SKU002,Acrylic Sheet 4x8,Signage,850,80,30,150
+SKU003,Aluminium Profile,Fixtures,320,200,80,300
+SKU004,LED Driver 60W,LED,680,60,25,100
+SKU005,Flex Banner Roll,Signage,1200,40,15,80
+SKU006,Neon Flex 1M,LED,290,150,60,250
+SKU007,MS Bracket Set,Fixtures,180,300,100,500
+SKU008,Vinyl Wrap 1M,Signage,420,90,35,180
+SKU009,Power Supply 12V,LED,550,70,30,120
+SKU010,ACP Sheet 4x8,Signage,950,50,20,100
+SKU011,RGB Controller,LED,380,110,45,200
+SKU012,GI Pipe 20mm,Fixtures,210,250,90,400
+SKU013,Backlit Film A1,Signage,760,35,15,70
+SKU014,LED Module 12V,LED,150,500,200,800
+SKU015,Stainless Bracket,Fixtures,640,45,20,90
